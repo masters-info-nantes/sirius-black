@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:angular="http://www.univnantes.fr/alma/angular" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.univnantes.fr/alma/angular platform:/resource/fr.univnantes.alma.angular/model/angular.ecore http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style" xmi:id="_WT5pwIeJEeWJkI9Hoo3XvA" selectedViews="_odag8IeWEeWJkI9Hoo3XvA" version="10.1.0.201509162000">
+<viewpoint:DAnalysis xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:angular="http://www.univnantes.fr/alma/angular" xmlns:description="http://www.eclipse.org/sirius/description/1.1.0" xmlns:description_1="http://www.eclipse.org/sirius/diagram/description/1.1.0" xmlns:description_2="http://www.eclipse.org/sirius/table/description/1.1.0" xmlns:diagram="http://www.eclipse.org/sirius/diagram/1.1.0" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:style="http://www.eclipse.org/sirius/diagram/description/style/1.1.0" xmlns:table="http://www.eclipse.org/sirius/table/1.1.0" xmlns:viewpoint="http://www.eclipse.org/sirius/1.1.0" xsi:schemaLocation="http://www.univnantes.fr/alma/angular platform:/resource/fr.univnantes.alma.angular/model/angular.ecore http://www.eclipse.org/sirius/description/1.1.0 http://www.eclipse.org/sirius/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description http://www.eclipse.org/sirius/table/description/1.1.0 http://www.eclipse.org/sirius/table/1.1.0#//description http://www.eclipse.org/sirius/diagram/description/style/1.1.0 http://www.eclipse.org/sirius/diagram/1.1.0#//description/style" xmi:id="_WT5pwIeJEeWJkI9Hoo3XvA" selectedViews="_odag8IeWEeWJkI9Hoo3XvA _BQbcMJnuEeW0YLKsO6g1HQ" version="10.1.0.201509162000">
   <semanticResources>angular.xmi</semanticResources>
   <ownedViews xmi:type="viewpoint:DRepresentationContainer" xmi:id="_odag8IeWEeWJkI9Hoo3XvA">
     <ownedRepresentations xmi:type="diagram:DSemanticDiagram" xmi:id="_Nynx8IeZEeWmSflHz4CkNA" name="new Class Diagram">
@@ -820,5 +820,108 @@
       <target xmi:type="angular:Folder" href="angular.xmi#//@folders.0"/>
     </ownedRepresentations>
     <viewpoint xmi:type="description:Viewpoint" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']"/>
+  </ownedViews>
+  <ownedViews xmi:type="viewpoint:DRepresentationContainer" xmi:id="_BQbcMJnuEeW0YLKsO6g1HQ">
+    <ownedRepresentations xmi:type="table:DTable" xmi:id="_B5wGAJnuEeW0YLKsO6g1HQ" name="new Module Table" headerColumnWidth="102">
+      <target xmi:type="angular:Module" href="angular.xmi#//@folders.0/@modules.0"/>
+      <lines xmi:type="table:DLine" xmi:id="_B5wGAZnuEeW0YLKsO6g1HQ" label="NewUser">
+        <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.0"/>
+        <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.0"/>
+        <originMapping xmi:type="description_2:LineMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Review']/@ownedRepresentations[name='Module%20Table']/@ownedLineMappings[name='ESClassLine']"/>
+        <cells xmi:type="table:DCell" xmi:id="_B5wGApnuEeW0YLKsO6g1HQ" label="NewUser" column="_B5wtIZnuEeW0YLKsO6g1HQ">
+          <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.0"/>
+          <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.0"/>
+        </cells>
+        <cells xmi:type="table:DCell" xmi:id="_B5wGA5nuEeW0YLKsO6g1HQ" label="false" column="_B5wtIpnuEeW0YLKsO6g1HQ">
+          <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.0"/>
+          <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.0"/>
+        </cells>
+        <cells xmi:type="table:DCell" xmi:id="_B5wtEJnuEeW0YLKsO6g1HQ" label="[Field Oeoeo]" column="_B5wtI5nuEeW0YLKsO6g1HQ">
+          <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.0"/>
+          <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.0"/>
+        </cells>
+        <cells xmi:type="table:DCell" xmi:id="_B5wtEZnuEeW0YLKsO6g1HQ" label="[Function Kedkeke]" column="_B5wtJJnuEeW0YLKsO6g1HQ">
+          <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.0"/>
+          <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.0"/>
+        </cells>
+      </lines>
+      <lines xmi:type="table:DLine" xmi:id="_B5wtEpnuEeW0YLKsO6g1HQ" label="Users">
+        <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.1"/>
+        <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.1"/>
+        <originMapping xmi:type="description_2:LineMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Review']/@ownedRepresentations[name='Module%20Table']/@ownedLineMappings[name='ESClassLine']"/>
+        <cells xmi:type="table:DCell" xmi:id="_B5wtE5nuEeW0YLKsO6g1HQ" label="Users" column="_B5wtIZnuEeW0YLKsO6g1HQ">
+          <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.1"/>
+          <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.1"/>
+        </cells>
+        <cells xmi:type="table:DCell" xmi:id="_B5wtFJnuEeW0YLKsO6g1HQ" label="false" column="_B5wtIpnuEeW0YLKsO6g1HQ">
+          <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.1"/>
+          <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.1"/>
+        </cells>
+        <cells xmi:type="table:DCell" xmi:id="_B5wtFZnuEeW0YLKsO6g1HQ" label="[]" column="_B5wtI5nuEeW0YLKsO6g1HQ">
+          <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.1"/>
+          <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.1"/>
+        </cells>
+        <cells xmi:type="table:DCell" xmi:id="_B5wtFpnuEeW0YLKsO6g1HQ" label="[]" column="_B5wtJJnuEeW0YLKsO6g1HQ">
+          <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.1"/>
+          <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.1"/>
+        </cells>
+      </lines>
+      <lines xmi:type="table:DLine" xmi:id="_B5wtF5nuEeW0YLKsO6g1HQ" label="User">
+        <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.2"/>
+        <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.2"/>
+        <originMapping xmi:type="description_2:LineMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Review']/@ownedRepresentations[name='Module%20Table']/@ownedLineMappings[name='ESClassLine']"/>
+        <cells xmi:type="table:DCell" xmi:id="_B5wtGJnuEeW0YLKsO6g1HQ" label="User" column="_B5wtIZnuEeW0YLKsO6g1HQ">
+          <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.2"/>
+          <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.2"/>
+        </cells>
+        <cells xmi:type="table:DCell" xmi:id="_B5wtGZnuEeW0YLKsO6g1HQ" label="true" column="_B5wtIpnuEeW0YLKsO6g1HQ">
+          <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.2"/>
+          <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.2"/>
+        </cells>
+        <cells xmi:type="table:DCell" xmi:id="_B5wtGpnuEeW0YLKsO6g1HQ" label="[Field Hhg]" column="_B5wtI5nuEeW0YLKsO6g1HQ">
+          <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.2"/>
+          <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.2"/>
+        </cells>
+        <cells xmi:type="table:DCell" xmi:id="_B5wtG5nuEeW0YLKsO6g1HQ" label="[]" column="_B5wtJJnuEeW0YLKsO6g1HQ">
+          <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.2"/>
+          <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.2"/>
+        </cells>
+      </lines>
+      <lines xmi:type="table:DLine" xmi:id="_B5wtHJnuEeW0YLKsO6g1HQ" label="UpdateUser">
+        <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.3"/>
+        <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.3"/>
+        <originMapping xmi:type="description_2:LineMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Review']/@ownedRepresentations[name='Module%20Table']/@ownedLineMappings[name='ESClassLine']"/>
+        <cells xmi:type="table:DCell" xmi:id="_B5wtHZnuEeW0YLKsO6g1HQ" label="UpdateUser" column="_B5wtIZnuEeW0YLKsO6g1HQ">
+          <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.3"/>
+          <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.3"/>
+        </cells>
+        <cells xmi:type="table:DCell" xmi:id="_B5wtHpnuEeW0YLKsO6g1HQ" label="false" column="_B5wtIpnuEeW0YLKsO6g1HQ">
+          <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.3"/>
+          <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.3"/>
+        </cells>
+        <cells xmi:type="table:DCell" xmi:id="_B5wtH5nuEeW0YLKsO6g1HQ" label="[]" column="_B5wtI5nuEeW0YLKsO6g1HQ">
+          <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.3"/>
+          <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.3"/>
+        </cells>
+        <cells xmi:type="table:DCell" xmi:id="_B5wtIJnuEeW0YLKsO6g1HQ" label="[]" column="_B5wtJJnuEeW0YLKsO6g1HQ">
+          <target xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.3"/>
+          <semanticElements xmi:type="angular:ESClass" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.3"/>
+        </cells>
+      </lines>
+      <columns xmi:type="table:DFeatureColumn" xmi:id="_B5wtIZnuEeW0YLKsO6g1HQ" cells="_B5wGApnuEeW0YLKsO6g1HQ _B5wtE5nuEeW0YLKsO6g1HQ _B5wtGJnuEeW0YLKsO6g1HQ _B5wtHZnuEeW0YLKsO6g1HQ" width="45" featureName="name">
+        <originMapping xmi:type="description_2:FeatureColumnMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Review']/@ownedRepresentations[name='Module%20Table']/@ownedColumnMappings[name='NameColumn']"/>
+      </columns>
+      <columns xmi:type="table:DFeatureColumn" xmi:id="_B5wtIpnuEeW0YLKsO6g1HQ" cells="_B5wGA5nuEeW0YLKsO6g1HQ _B5wtFJnuEeW0YLKsO6g1HQ _B5wtGZnuEeW0YLKsO6g1HQ _B5wtHpnuEeW0YLKsO6g1HQ" width="39" featureName="abstract">
+        <originMapping xmi:type="description_2:FeatureColumnMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Review']/@ownedRepresentations[name='Module%20Table']/@ownedColumnMappings[name='AbstractColumn']"/>
+      </columns>
+      <columns xmi:type="table:DFeatureColumn" xmi:id="_B5wtI5nuEeW0YLKsO6g1HQ" cells="_B5wtEJnuEeW0YLKsO6g1HQ _B5wtFZnuEeW0YLKsO6g1HQ _B5wtGpnuEeW0YLKsO6g1HQ _B5wtH5nuEeW0YLKsO6g1HQ" width="49" featureName="fields">
+        <originMapping xmi:type="description_2:FeatureColumnMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Review']/@ownedRepresentations[name='Module%20Table']/@ownedColumnMappings[name='FieldsColumn']"/>
+      </columns>
+      <columns xmi:type="table:DFeatureColumn" xmi:id="_B5wtJJnuEeW0YLKsO6g1HQ" cells="_B5wtEZnuEeW0YLKsO6g1HQ _B5wtFpnuEeW0YLKsO6g1HQ _B5wtG5nuEeW0YLKsO6g1HQ _B5wtIJnuEeW0YLKsO6g1HQ" width="68" featureName="functions">
+        <originMapping xmi:type="description_2:FeatureColumnMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Review']/@ownedRepresentations[name='Module%20Table']/@ownedColumnMappings[name='FunctionsColumn']"/>
+      </columns>
+      <description xmi:type="description_2:EditionTableDescription" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Review']/@ownedRepresentations[name='Module%20Table']"/>
+    </ownedRepresentations>
+    <viewpoint xmi:type="description:Viewpoint" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Review']"/>
   </ownedViews>
 </viewpoint:DAnalysis>
