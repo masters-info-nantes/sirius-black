@@ -502,6 +502,323 @@
       <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Class%20Diagram']/@defaultLayer"/>
       <target xmi:type="angular:Module" href="angular.xmi#//@folders.0/@modules.1"/>
     </ownedRepresentations>
+    <ownedRepresentations xmi:type="diagram:DSemanticDiagram" xmi:id="_LXYb4JnfEeWEeIxe9-_EQQ" name="new Component Diagram">
+      <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_LXYb4ZnfEeWEeIxe9-_EQQ" source="DANNOTATION_CUSTOMIZATION_KEY">
+        <data xmi:type="diagram:ComputedStyleDescriptionRegistry" xmi:id="_LXYb4pnfEeWEeIxe9-_EQQ"/>
+      </ownedAnnotationEntries>
+      <ownedAnnotationEntries xmi:type="description:AnnotationEntry" xmi:id="_LXZC8JnfEeWEeIxe9-_EQQ" source="GMF_DIAGRAMS">
+        <data xmi:type="notation:Diagram" xmi:id="_LXZC8ZnfEeWEeIxe9-_EQQ" type="Sirius" element="_LXYb4JnfEeWEeIxe9-_EQQ" measurementUnit="Pixel">
+          <children xmi:type="notation:Node" xmi:id="_LXaREJnfEeWEeIxe9-_EQQ" type="2002" element="_LXYb45nfEeWEeIxe9-_EQQ">
+            <children xmi:type="notation:Node" xmi:id="_LXa4IJnfEeWEeIxe9-_EQQ" type="5006"/>
+            <children xmi:type="notation:Node" xmi:id="_LXa4IZnfEeWEeIxe9-_EQQ" type="7001">
+              <children xmi:type="notation:Node" xmi:id="_gTVRYJnfEeWEeIxe9-_EQQ" type="3007" element="_gTPKwJnfEeWEeIxe9-_EQQ">
+                <children xmi:type="notation:Node" xmi:id="_gTV4cJnfEeWEeIxe9-_EQQ" type="5003">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_gTV4cZnfEeWEeIxe9-_EQQ" y="5"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_gTWfgJnfEeWEeIxe9-_EQQ" type="3004" element="_gTPx0JnfEeWEeIxe9-_EQQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_gTWfgZnfEeWEeIxe9-_EQQ" fontName=".SF NS Text"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gTWfgpnfEeWEeIxe9-_EQQ"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_gTVRYZnfEeWEeIxe9-_EQQ" fontName=".SF NS Text" fontHeight="8"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_gTVRYpnfEeWEeIxe9-_EQQ" x="123" y="50" width="128" height="81"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_hSb98JnfEeWEeIxe9-_EQQ" type="3007" element="_hSYTkJnfEeWEeIxe9-_EQQ">
+                <children xmi:type="notation:Node" xmi:id="_hSclAJnfEeWEeIxe9-_EQQ" type="5003">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_hSclAZnfEeWEeIxe9-_EQQ" y="5"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_hSdMEJnfEeWEeIxe9-_EQQ" type="3004" element="_hSYTkZnfEeWEeIxe9-_EQQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_hSdMEZnfEeWEeIxe9-_EQQ" fontName=".SF NS Text"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hSdMEpnfEeWEeIxe9-_EQQ"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_hSb98ZnfEeWEeIxe9-_EQQ" fontName=".SF NS Text" fontHeight="8"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hSb98pnfEeWEeIxe9-_EQQ" x="135" y="174" width="141" height="81"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_pb5_cJnfEeWEeIxe9-_EQQ" type="3007" element="_pbxckJnfEeWEeIxe9-_EQQ">
+                <children xmi:type="notation:Node" xmi:id="_pb6mgJnfEeWEeIxe9-_EQQ" type="5003">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_pb6mgZnfEeWEeIxe9-_EQQ" y="5"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_pb7NkJnfEeWEeIxe9-_EQQ" type="3004" element="_pbyDoJnfEeWEeIxe9-_EQQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_pb7NkZnfEeWEeIxe9-_EQQ" fontName=".SF NS Text"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pb7NkpnfEeWEeIxe9-_EQQ"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_pb5_cZnfEeWEeIxe9-_EQQ" fontName=".SF NS Text" fontHeight="8"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_pb5_cpnfEeWEeIxe9-_EQQ" x="81" y="187" width="30" height="30"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_xQiZYJnfEeWEeIxe9-_EQQ" type="3007" element="_xQZ2gJnfEeWEeIxe9-_EQQ">
+                <children xmi:type="notation:Node" xmi:id="_xQjAcJnfEeWEeIxe9-_EQQ" type="5003">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_xQjAcZnfEeWEeIxe9-_EQQ" y="5"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_xQjngJnfEeWEeIxe9-_EQQ" type="3004" element="_xQbEoJnfEeWEeIxe9-_EQQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_xQjngZnfEeWEeIxe9-_EQQ" fontName=".SF NS Text"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xQjngpnfEeWEeIxe9-_EQQ"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_xQiZYZnfEeWEeIxe9-_EQQ" fontName=".SF NS Text" fontHeight="8"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_xQiZYpnfEeWEeIxe9-_EQQ" x="63" y="86" width="30" height="30"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_Db26UJngEeWEeIxe9-_EQQ" type="3007" element="_DbuXcJngEeWEeIxe9-_EQQ">
+                <children xmi:type="notation:Node" xmi:id="_Db3hYJngEeWEeIxe9-_EQQ" type="5003">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_Db3hYZngEeWEeIxe9-_EQQ" y="5"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_Db4IcJngEeWEeIxe9-_EQQ" type="3004" element="_DbuXcZngEeWEeIxe9-_EQQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_Db4IcZngEeWEeIxe9-_EQQ" fontName=".SF NS Text"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Db4IcpngEeWEeIxe9-_EQQ"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_Db26UZngEeWEeIxe9-_EQQ" fontName=".SF NS Text" fontHeight="8"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Db26UpngEeWEeIxe9-_EQQ" x="284" y="139" width="30" height="30"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_JbQQ8JngEeWEeIxe9-_EQQ" type="3007" element="_JbF44JngEeWEeIxe9-_EQQ">
+                <children xmi:type="notation:Node" xmi:id="_JbQ4AJngEeWEeIxe9-_EQQ" type="5003">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_JbQ4AZngEeWEeIxe9-_EQQ" y="5"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_JbRfEJngEeWEeIxe9-_EQQ" type="3004" element="_JbF44ZngEeWEeIxe9-_EQQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_JbRfEZngEeWEeIxe9-_EQQ" fontName=".SF NS Text"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JbRfEpngEeWEeIxe9-_EQQ"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_JbQQ8ZngEeWEeIxe9-_EQQ" fontName=".SF NS Text" fontHeight="8"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_JbQQ8pngEeWEeIxe9-_EQQ" x="408" y="87" width="30" height="30"/>
+              </children>
+              <styles xmi:type="notation:SortingStyle" xmi:id="_LXa4IpnfEeWEeIxe9-_EQQ"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_LXa4I5nfEeWEeIxe9-_EQQ"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_LXaREZnfEeWEeIxe9-_EQQ" fontName=".SF NS Text"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LXaREpnfEeWEeIxe9-_EQQ" x="20" y="44" width="355" height="299"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_LXa4JJnfEeWEeIxe9-_EQQ" type="2002" element="_LXYb5JnfEeWEeIxe9-_EQQ">
+            <children xmi:type="notation:Node" xmi:id="_LXbfMJnfEeWEeIxe9-_EQQ" type="5006"/>
+            <children xmi:type="notation:Node" xmi:id="_LXbfMZnfEeWEeIxe9-_EQQ" type="7001">
+              <children xmi:type="notation:Node" xmi:id="_LJ6yMJngEeWEeIxe9-_EQQ" type="3007" element="_LJwaIJngEeWEeIxe9-_EQQ">
+                <children xmi:type="notation:Node" xmi:id="_LJ7ZQJngEeWEeIxe9-_EQQ" type="5003">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_LJ7ZQZngEeWEeIxe9-_EQQ" y="5"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_LJ8AUJngEeWEeIxe9-_EQQ" type="3004" element="_LJwaIZngEeWEeIxe9-_EQQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_LJ8AUZngEeWEeIxe9-_EQQ" fontName=".SF NS Text"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LJ8AUpngEeWEeIxe9-_EQQ"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_LJ6yMZngEeWEeIxe9-_EQQ" fontName=".SF NS Text" fontHeight="8"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LJ6yMpngEeWEeIxe9-_EQQ" x="143" y="93" width="30" height="30"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_RBtE8JngEeWEeIxe9-_EQQ" type="3007" element="_RBiF0JngEeWEeIxe9-_EQQ">
+                <children xmi:type="notation:Node" xmi:id="_RBtsAJngEeWEeIxe9-_EQQ" type="5003">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_RBtsAZngEeWEeIxe9-_EQQ" y="5"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_RBtsApngEeWEeIxe9-_EQQ" type="3004" element="_RBis4JngEeWEeIxe9-_EQQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_RBtsA5ngEeWEeIxe9-_EQQ" fontName=".SF NS Text"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RBtsBJngEeWEeIxe9-_EQQ"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_RBtE8ZngEeWEeIxe9-_EQQ" fontName=".SF NS Text" fontHeight="8"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_RBtE8pngEeWEeIxe9-_EQQ" x="194" y="124" width="30" height="30"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_em2E8JngEeWEeIxe9-_EQQ" type="3007" element="_emwlYJngEeWEeIxe9-_EQQ">
+                <children xmi:type="notation:Node" xmi:id="_em3TEJngEeWEeIxe9-_EQQ" type="5003">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_em3TEZngEeWEeIxe9-_EQQ" y="5"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_em36IJngEeWEeIxe9-_EQQ" type="3004" element="_emwlYZngEeWEeIxe9-_EQQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_em36IZngEeWEeIxe9-_EQQ" fontName=".SF NS Text"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_em36IpngEeWEeIxe9-_EQQ"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_em2E8ZngEeWEeIxe9-_EQQ" fontName=".SF NS Text" fontHeight="8"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_em2E8pngEeWEeIxe9-_EQQ" x="55" y="127" width="30" height="30"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_e4LskJngEeWEeIxe9-_EQQ" type="3007" element="_e4DJsJngEeWEeIxe9-_EQQ">
+                <children xmi:type="notation:Node" xmi:id="_e4MToJngEeWEeIxe9-_EQQ" type="5003">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_e4MToZngEeWEeIxe9-_EQQ" y="5"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_e4MTopngEeWEeIxe9-_EQQ" type="3004" element="_e4DJsZngEeWEeIxe9-_EQQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_e4MTo5ngEeWEeIxe9-_EQQ" fontName=".SF NS Text"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e4MTpJngEeWEeIxe9-_EQQ"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_e4LskZngEeWEeIxe9-_EQQ" fontName=".SF NS Text" fontHeight="8"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_e4LskpngEeWEeIxe9-_EQQ" x="91" y="76" width="30" height="30"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_fLylEJngEeWEeIxe9-_EQQ" type="3007" element="_fLrQUJngEeWEeIxe9-_EQQ">
+                <children xmi:type="notation:Node" xmi:id="_fLzMIJngEeWEeIxe9-_EQQ" type="5003">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_fLzMIZngEeWEeIxe9-_EQQ" y="5"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_fLzMIpngEeWEeIxe9-_EQQ" type="3004" element="_fLrQUZngEeWEeIxe9-_EQQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_fLzMI5ngEeWEeIxe9-_EQQ" fontName=".SF NS Text"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLzMJJngEeWEeIxe9-_EQQ"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_fLylEZngEeWEeIxe9-_EQQ" fontName=".SF NS Text" fontHeight="8"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_fLylEpngEeWEeIxe9-_EQQ" x="194" y="31" width="30" height="30"/>
+              </children>
+              <children xmi:type="notation:Node" xmi:id="_hmLj4JngEeWEeIxe9-_EQQ" type="3007" element="_hmDoEJngEeWEeIxe9-_EQQ">
+                <children xmi:type="notation:Node" xmi:id="_hmMK8JngEeWEeIxe9-_EQQ" type="5003">
+                  <layoutConstraint xmi:type="notation:Location" xmi:id="_hmMK8ZngEeWEeIxe9-_EQQ" y="5"/>
+                </children>
+                <children xmi:type="notation:Node" xmi:id="_hmMK8pngEeWEeIxe9-_EQQ" type="3004" element="_hmDoEZngEeWEeIxe9-_EQQ">
+                  <styles xmi:type="notation:ShapeStyle" xmi:id="_hmMK85ngEeWEeIxe9-_EQQ" fontName=".SF NS Text"/>
+                  <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hmMK9JngEeWEeIxe9-_EQQ"/>
+                </children>
+                <styles xmi:type="notation:ShapeStyle" xmi:id="_hmLj4ZngEeWEeIxe9-_EQQ" fontName=".SF NS Text" fontHeight="8"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hmLj4pngEeWEeIxe9-_EQQ" x="161" y="44" width="30" height="30"/>
+              </children>
+              <styles xmi:type="notation:SortingStyle" xmi:id="_LXbfMpnfEeWEeIxe9-_EQQ"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_LXbfM5nfEeWEeIxe9-_EQQ"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_LXa4JZnfEeWEeIxe9-_EQQ" fontName=".SF NS Text"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_LXa4JpnfEeWEeIxe9-_EQQ" x="392" y="20" width="275" height="211"/>
+          </children>
+          <children xmi:type="notation:Node" xmi:id="_zTV-oJnfEeWEeIxe9-_EQQ" type="2002" element="_zTNbwJnfEeWEeIxe9-_EQQ">
+            <children xmi:type="notation:Node" xmi:id="_zTWlsJnfEeWEeIxe9-_EQQ" type="5006"/>
+            <children xmi:type="notation:Node" xmi:id="_zTXMwJnfEeWEeIxe9-_EQQ" type="7001">
+              <styles xmi:type="notation:SortingStyle" xmi:id="_zTXMwZnfEeWEeIxe9-_EQQ"/>
+              <styles xmi:type="notation:FilteringStyle" xmi:id="_zTXMwpnfEeWEeIxe9-_EQQ"/>
+            </children>
+            <styles xmi:type="notation:ShapeStyle" xmi:id="_zTV-oZnfEeWEeIxe9-_EQQ" fontName=".SF NS Text"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_zTV-opnfEeWEeIxe9-_EQQ" x="554" y="304"/>
+          </children>
+          <styles xmi:type="notation:DiagramStyle" xmi:id="_LXZC8pnfEeWEeIxe9-_EQQ"/>
+          <edges xmi:type="notation:Edge" xmi:id="_nDgIMJngEeWEeIxe9-_EQQ" type="4001" element="_nDTT4JngEeWEeIxe9-_EQQ" source="_em2E8JngEeWEeIxe9-_EQQ" target="_LJ6yMJngEeWEeIxe9-_EQQ">
+            <children xmi:type="notation:Node" xmi:id="_nDgINJngEeWEeIxe9-_EQQ" type="6001">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nDgINZngEeWEeIxe9-_EQQ" y="-10"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_nDgvQJngEeWEeIxe9-_EQQ" type="6002">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nDgvQZngEeWEeIxe9-_EQQ" y="10"/>
+            </children>
+            <children xmi:type="notation:Node" xmi:id="_nDgvQpngEeWEeIxe9-_EQQ" type="6003">
+              <layoutConstraint xmi:type="notation:Bounds" xmi:id="_nDgvQ5ngEeWEeIxe9-_EQQ" y="10"/>
+            </children>
+            <styles xmi:type="notation:ConnectorStyle" xmi:id="_nDgIMZngEeWEeIxe9-_EQQ"/>
+            <styles xmi:type="notation:FontStyle" xmi:id="_nDgIMpngEeWEeIxe9-_EQQ" fontName=".SF NS Text" fontHeight="8"/>
+            <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_nDgIM5ngEeWEeIxe9-_EQQ" points="[447, 147, 447, 147]$[535, 113, 535, 113]"/>
+            <sourceAnchor xmi:type="notation:IdentityAnchor" xmi:id="_nDlAsJngEeWEeIxe9-_EQQ" id="(0.5,0.5)"/>
+            <targetAnchor xmi:type="notation:IdentityAnchor" xmi:id="_nDlAsZngEeWEeIxe9-_EQQ" id="(0.5,0.5)"/>
+          </edges>
+        </data>
+      </ownedAnnotationEntries>
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_LXYb45nfEeWEeIxe9-_EQQ">
+        <target xmi:type="angular:Module" href="angular.xmi#//@folders.0/@modules.0"/>
+        <semanticElements xmi:type="angular:Module" href="angular.xmi#//@folders.0/@modules.0"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']"/>
+        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_gTPKwJnfEeWEeIxe9-_EQQ" name="New NgService" width="3" height="3" resizeKind="NSEW">
+          <target xmi:type="angular:NgService" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.4"/>
+          <semanticElements xmi:type="angular:NgService" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.4"/>
+          <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_gTPx0JnfEeWEeIxe9-_EQQ" labelPosition="node" color="209,209,209">
+            <description xmi:type="style:BundledImageDescription" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgService']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgService']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_hSYTkJnfEeWEeIxe9-_EQQ" name="New NgService" width="3" height="3" resizeKind="NSEW">
+          <target xmi:type="angular:NgService" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.5"/>
+          <semanticElements xmi:type="angular:NgService" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.5"/>
+          <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+          <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+          <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+          <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_hSYTkZnfEeWEeIxe9-_EQQ" labelPosition="node" color="209,209,209">
+            <description xmi:type="style:BundledImageDescription" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgService']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgService']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_pbxckJnfEeWEeIxe9-_EQQ" name="New NgService" width="3" height="3" resizeKind="NSEW">
+          <target xmi:type="angular:NgService" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.6"/>
+          <semanticElements xmi:type="angular:NgService" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.6"/>
+          <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_pbyDoJnfEeWEeIxe9-_EQQ" labelPosition="node" color="209,209,209">
+            <description xmi:type="style:BundledImageDescription" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgService']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgService']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_DbuXcJngEeWEeIxe9-_EQQ" name="New NgService" width="3" height="3" resizeKind="NSEW">
+          <target xmi:type="angular:NgService" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.8"/>
+          <semanticElements xmi:type="angular:NgService" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.8"/>
+          <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_DbuXcZngEeWEeIxe9-_EQQ" labelPosition="node" color="209,209,209">
+            <description xmi:type="style:BundledImageDescription" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgService']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgService']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_JbF44JngEeWEeIxe9-_EQQ" name="New NgService" width="3" height="3" resizeKind="NSEW">
+          <target xmi:type="angular:NgService" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.9"/>
+          <semanticElements xmi:type="angular:NgService" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.9"/>
+          <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_JbF44ZngEeWEeIxe9-_EQQ" labelPosition="node" color="209,209,209">
+            <description xmi:type="style:BundledImageDescription" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgService']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgService']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_xQZ2gJnfEeWEeIxe9-_EQQ" name="New NgDirective" width="3" height="3" resizeKind="NSEW">
+          <target xmi:type="angular:NgDirective" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.7"/>
+          <semanticElements xmi:type="angular:NgDirective" href="angular.xmi#//@folders.0/@modules.0/@moduleElements.7"/>
+          <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_xQbEoJnfEeWEeIxe9-_EQQ" labelPosition="node" color="246,139,139">
+            <description xmi:type="style:BundledImageDescription" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgDirective']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgDirective']"/>
+        </ownedDiagramElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_LXYb5JnfEeWEeIxe9-_EQQ">
+        <target xmi:type="angular:Module" href="angular.xmi#//@folders.0/@modules.1"/>
+        <semanticElements xmi:type="angular:Module" href="angular.xmi#//@folders.0/@modules.1"/>
+        <arrangeConstraints>KEEP_LOCATION</arrangeConstraints>
+        <arrangeConstraints>KEEP_SIZE</arrangeConstraints>
+        <arrangeConstraints>KEEP_RATIO</arrangeConstraints>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']"/>
+        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_LJwaIJngEeWEeIxe9-_EQQ" name="New NgService" incomingEdges="_nDTT4JngEeWEeIxe9-_EQQ" width="3" height="3" resizeKind="NSEW">
+          <target xmi:type="angular:NgService" href="angular.xmi#//@folders.0/@modules.1/@moduleElements.0"/>
+          <semanticElements xmi:type="angular:NgService" href="angular.xmi#//@folders.0/@modules.1/@moduleElements.0"/>
+          <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_LJwaIZngEeWEeIxe9-_EQQ" labelPosition="node" color="209,209,209">
+            <description xmi:type="style:BundledImageDescription" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgService']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgService']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_RBiF0JngEeWEeIxe9-_EQQ" name="New NgService" width="3" height="3" resizeKind="NSEW">
+          <target xmi:type="angular:NgService" href="angular.xmi#//@folders.0/@modules.1/@moduleElements.1"/>
+          <semanticElements xmi:type="angular:NgService" href="angular.xmi#//@folders.0/@modules.1/@moduleElements.1"/>
+          <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_RBis4JngEeWEeIxe9-_EQQ" labelPosition="node" color="209,209,209">
+            <description xmi:type="style:BundledImageDescription" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgService']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgService']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_hmDoEJngEeWEeIxe9-_EQQ" name="New NgService" width="3" height="3" resizeKind="NSEW">
+          <target xmi:type="angular:NgService" href="angular.xmi#//@folders.0/@modules.1/@moduleElements.5"/>
+          <semanticElements xmi:type="angular:NgService" href="angular.xmi#//@folders.0/@modules.1/@moduleElements.5"/>
+          <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_hmDoEZngEeWEeIxe9-_EQQ" labelPosition="node" color="209,209,209">
+            <description xmi:type="style:BundledImageDescription" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgService']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgService']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_emwlYJngEeWEeIxe9-_EQQ" name="New NgDirective" outgoingEdges="_nDTT4JngEeWEeIxe9-_EQQ" width="3" height="3" resizeKind="NSEW">
+          <target xmi:type="angular:NgDirective" href="angular.xmi#//@folders.0/@modules.1/@moduleElements.2"/>
+          <semanticElements xmi:type="angular:NgDirective" href="angular.xmi#//@folders.0/@modules.1/@moduleElements.2"/>
+          <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_emwlYZngEeWEeIxe9-_EQQ" labelPosition="node" color="246,139,139">
+            <description xmi:type="style:BundledImageDescription" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgDirective']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgDirective']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_e4DJsJngEeWEeIxe9-_EQQ" name="New NgController" width="3" height="3" resizeKind="NSEW">
+          <target xmi:type="angular:NgController" href="angular.xmi#//@folders.0/@modules.1/@moduleElements.3"/>
+          <semanticElements xmi:type="angular:NgController" href="angular.xmi#//@folders.0/@modules.1/@moduleElements.3"/>
+          <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_e4DJsZngEeWEeIxe9-_EQQ" labelPosition="node" color="253,206,137">
+            <description xmi:type="style:BundledImageDescription" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgController']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgController']"/>
+        </ownedDiagramElements>
+        <ownedDiagramElements xmi:type="diagram:DNode" xmi:id="_fLrQUJngEeWEeIxe9-_EQQ" name="New NgModule" width="3" height="3" resizeKind="NSEW">
+          <target xmi:type="angular:NgModule" href="angular.xmi#//@folders.0/@modules.1/@moduleElements.4"/>
+          <semanticElements xmi:type="angular:NgModule" href="angular.xmi#//@folders.0/@modules.1/@moduleElements.4"/>
+          <ownedStyle xmi:type="diagram:BundledImage" xmi:id="_fLrQUZngEeWEeIxe9-_EQQ" labelPosition="node" color="204,242,166">
+            <description xmi:type="style:BundledImageDescription" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgModule']/@style"/>
+          </ownedStyle>
+          <actualMapping xmi:type="description_1:NodeMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']/@subNodeMappings[name='NgModule']"/>
+        </ownedDiagramElements>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DNodeContainer" xmi:id="_zTNbwJnfEeWEeIxe9-_EQQ">
+        <target xmi:type="angular:Module" href="angular.xmi#//@folders.0/@modules.2"/>
+        <semanticElements xmi:type="angular:Module" href="angular.xmi#//@folders.0/@modules.2"/>
+        <actualMapping xmi:type="description_1:ContainerMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@containerMappings[name='Module']"/>
+      </ownedDiagramElements>
+      <ownedDiagramElements xmi:type="diagram:DEdge" xmi:id="_nDTT4JngEeWEeIxe9-_EQQ" sourceNode="_emwlYJngEeWEeIxe9-_EQQ" targetNode="_LJwaIJngEeWEeIxe9-_EQQ">
+        <target xmi:type="angular:NgDirective" href="angular.xmi#//@folders.0/@modules.1/@moduleElements.2"/>
+        <ownedStyle xmi:type="diagram:EdgeStyle" xmi:id="_nDT68JngEeWEeIxe9-_EQQ" size="2">
+          <description xmi:type="style:EdgeStyleDescription" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@edgeMappings[name='RelationDirectiveService']/@style"/>
+          <centerLabelStyle xmi:type="diagram:CenterLabelStyle" xmi:id="_nDT68ZngEeWEeIxe9-_EQQ"/>
+        </ownedStyle>
+        <actualMapping xmi:type="description_1:EdgeMapping" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer/@edgeMappings[name='RelationDirectiveService']"/>
+      </ownedDiagramElements>
+      <description xmi:type="description_1:DiagramDescription" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']"/>
+      <filterVariableHistory xmi:type="diagram:FilterVariableHistory" xmi:id="_LXYb5ZnfEeWEeIxe9-_EQQ"/>
+      <activatedLayers xmi:type="description_1:Layer" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']/@ownedRepresentations[name='Component%20Diagram']/@defaultLayer"/>
+      <target xmi:type="angular:Folder" href="angular.xmi#//@folders.0"/>
+    </ownedRepresentations>
     <viewpoint xmi:type="description:Viewpoint" href="platform:/resource/fr.univnantes.alma.angular.design/description/angular.odesign#//@ownedViewpoints[name='Architecture']"/>
   </ownedViews>
 </viewpoint:DAnalysis>

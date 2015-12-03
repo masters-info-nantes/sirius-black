@@ -13,7 +13,21 @@
         <fields name="Hhg"/>
       </moduleElements>
       <moduleElements xsi:type="angular:ESClass" name="UpdateUser" extends="//@folders.0/@modules.0/@moduleElements.1"/>
+      <moduleElements xsi:type="angular:NgService" name="New NgService"/>
+      <moduleElements xsi:type="angular:NgService" name="New NgService"/>
+      <moduleElements xsi:type="angular:NgService" name="New NgService"/>
+      <moduleElements xsi:type="angular:NgDirective" name="New NgDirective"/>
+      <moduleElements xsi:type="angular:NgService" name="New NgService"/>
+      <moduleElements xsi:type="angular:NgService" name="New NgService"/>
     </modules>
-    <modules path="common.js"/>
+    <modules path="common.js">
+      <moduleElements xsi:type="angular:NgService" name="New NgService"/>
+      <moduleElements xsi:type="angular:NgService" name="New NgService"/>
+      <moduleElements xsi:type="angular:NgDirective" name="New NgDirective" dependencies="//@folders.0/@modules.1/@moduleElements.0"/>
+      <moduleElements xsi:type="angular:NgController" name="New NgController"/>
+      <moduleElements xsi:type="angular:NgModule" name="New NgModule"/>
+      <moduleElements xsi:type="angular:NgService" name="New NgService"/>
+    </modules>
+    <modules path="New Module"/>
   </folders>
 </angular:Project>
